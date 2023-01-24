@@ -1,0 +1,30 @@
+{
+    "stac_version": "1.0.0",
+    "id": "dea_coastlines",
+    "title": "dea_coastlines",
+    "type": "Collection",
+    "license": "CC-BY-4.0",
+    "description": "Coastlines for Africa produced by Digital Earth Africa.",
+    "properties": {},
+    "providers": [],
+    "extent": {
+        "temporal": {
+            "interval": [
+                [
+                    null,
+                    null
+                ]
+            ]
+        }
+    },
+    "links": [
+        {
+            "rel": "items",
+            "href": "https://explorer.dev.digitalearth.africa/stac/collections/crop_mask_central/items"
+        },
+        {
+            "rel": "root",
+            "href": "https://explorer.dev.digitalearth.africa/stac"
+        }
+    ]
+}
